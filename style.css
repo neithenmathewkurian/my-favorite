@@ -76,4 +76,9 @@ h2{
 #name{
   font-family:𝙏𝙝𝙞𝙨 𝙈𝙚𝙩𝙖 𝙏𝙖𝙜𝙨 𝙁𝙤𝙣𝙩 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 𝙞𝙨  ;  
 }
-
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
