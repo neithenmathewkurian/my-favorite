@@ -81,4 +81,22 @@ html{
 }
 a{
     text-decoration: none;
+    text-shadow: 2px 2px gainsboro;
+
+
+}
+#contact h3{
+    display:inline;
+    
+    
+}
+#contact{
+    background-color: darkred;
+}
+#contact a{
+    color: black;
+}
+#writings a{
+    text-shadow: none !important;
+    color: blue !important;
 }
